@@ -1,0 +1,41 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment and package files
+.env
+.venv/
+venv/
+env/
+*.egg-info/
+
+# Data files
+*.xlsx
+*.tsv
+*.json
+
+# Model weights and binaries
+*.h5
+*.pkl
+*.joblib
+*.pt
+*.onnx
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE settings
+.vscode/
+.idea/
+
+# MLflow artifacts and runs
+mlruns/
