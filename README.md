@@ -1,3 +1,5 @@
+> Made by Sohan L V | University of South Florida |
+
 # Predicting Online Shopper's Purchase Intentions
 
 This project aims to predict whether an online user will complete a purchase during a browsing session. It applies multiple machine learning models and advanced techniques like class imbalance handling and experiment tracking using MLflow. The approach is inspired by the academic paper:
@@ -69,4 +71,3 @@ This project shows how e-commerce platforms can leverage ML to:
 - Build real-time personalization pipelines
 - Increase revenue through data-driven optimization
 
-> Made by Sohan L V | University of South Florida |
