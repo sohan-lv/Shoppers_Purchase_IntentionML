@@ -69,4 +69,4 @@ This project shows how e-commerce platforms can leverage ML to:
 - Build real-time personalization pipelines
 - Increase revenue through data-driven optimization
 
-
+> Made by Sohan L V | University of South Florida |
